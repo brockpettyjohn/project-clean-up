@@ -12,6 +12,7 @@
     "body-parser": "^1.17.2",
     "cors": "^2.8.3",
     "express": "^4.15.3",
+    "heroku": "^0.2.0",
     "massive": "^3.0.0",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
